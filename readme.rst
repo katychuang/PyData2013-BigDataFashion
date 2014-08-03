@@ -3,7 +3,7 @@ PyData 2013 Talk: Big Data in Fashion
 =====================================
 
 #PythonFashionForecaster
-@katychuang
+[@katychuang](http://twitter.com/katychuang)
 
 Designing an open source data-rich application
 
